@@ -81,3 +81,5 @@ class CategoriesController < ApplicationController
     end
   end
 end
+
+hi
